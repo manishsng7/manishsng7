@@ -10,7 +10,8 @@
 <code><img height="20" alt="Insta" src="https://github.com/manishsng7/manishsng7/assets/159911617/abd7b8da-aa58-4b10-88f9-4e60da91719e"></code>
 <code><img height="20" alt="medium" src="https://github.com/manishsng7/manishsng7/assets/159911617/3cff6cd5-887d-4b4e-ab4f-39839c5ff9e2"></code>
 <code><img height="20" alt="linkedin" src="https://github.com/manishsng7/manishsng7/assets/159911617/e840732d-e680-47a3-b2d3-672464cd73f0"></code>
-<code><img height="20" alt="twitter" src="https://github.com/manishsng7/manishsng7/assets/159911617/dcae6803-b400-47d1-b91f-1af00beb651f"></code> 
+<code><img height="20" alt="twitter" src="https://github.com/manishsng7/manishsng7/assets/159911617/dcae6803-b400-47d1-b91f-1af00beb651f"></code>
+- 🌐 Checkout my new website: [sngmanish.com](https://www.sngmanish.com/)
 
 
 
